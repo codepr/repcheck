@@ -8,7 +8,7 @@ Portable C library for rep counting, velocity tracking, RPE estimation, and form
 
 ### Prerequisites
 - GCC with C11 support
-- CMake (optional, for advanced builds)
+- Make
 
 ### Quick Build
 

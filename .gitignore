@@ -1,0 +1,41 @@
+# C/C++ Build Artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.lib
+*.la
+*.lo
+*.out
+*.hex
+*.ko
+*.elf
+*.ghc
+*.pch
+*.dSYM/
+*.su
+test_*
+
+# CMake Build
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+generated/
+build/
+
+# Editor
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# LibRepEngine static library
+librepengine.a
