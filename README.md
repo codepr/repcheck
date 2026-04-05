@@ -1,4 +1,4 @@
-# RepCount
+# RepCheck
 
 A mobile app for rep counting using computer vision and pose detection.
 Ideally, through the smartphone camera, it would infer some basic info about
@@ -17,7 +17,7 @@ This project is intended to try and evaluate local model capabilities for agenti
 ## Project Structure
 
 ```
-repcount/
+repcheck/
 ├── librepengine/           # C library (standalone)
 │   ├── src/                # Core implementation
 │   ├── tests/              # Unit tests
