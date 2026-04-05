@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+../librepengine/build/
+
+# Generated files
+app/src/main/java/**/*.class
+app/src/main/jni/*.o
+*.so
+
+# Local configuration
+local.properties
+*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Android Studio
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Temporary files
+*.tmp
+*.temp
+
+# ProGuard mapping files
+proguard/mapping.txt
+
+# APK/AAB outputs (optional - uncomment if you want to ignore builds)
+# *.apk
+# *.aab
+# app/*.apk
+# app/*.aab
+
+# Native debug symbols
+app/src/main/jni/*.so.dbg

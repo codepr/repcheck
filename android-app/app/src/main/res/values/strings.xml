@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RepCount</string>
+    <string name="permission_camera_rationale">Camera access is required for pose detection</string>
+    <string name="permission_denied_message">Camera permission denied. App will not function correctly.</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="reset_button">Reset</string>
+    <string name="exercise_pushup">Push-up</string>
+    <string name="exercise_squat">Squat</string>
+    <string name="reps_count_format">%d reps</string>
+    <string name="rpe_format">RPE: %.1f/10</string>
+    <string name="form_quality_format">Form: %s</string>
+    <string name="form_good">Good</string>
+    <string name="form_needs_work">Needs Work</string>
+    <string name="fps_format">%.1f FPS</string>
+    <string name="waiting_for_pose">Position yourself for pose detection...</string>
+    <string name="pose_detected">Pose detected!</string>
+</resources>
